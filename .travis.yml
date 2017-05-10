@@ -7,3 +7,4 @@ deploy:
       secret_access_key: CAiJxRPDFzUqRnw92yMu9R0O6yJ/PnKMMVkg5C4g
       application: SimpleHapiServer
       deployment_group: development
+      region: ap-southeast-1
