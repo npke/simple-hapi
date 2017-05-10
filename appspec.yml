@@ -24,4 +24,4 @@ os: linux
 #   may cause associated deployments to fail.
 files:
   - source: /
-    destination: /home/ec2-user/simple-
+    destination: /home/ec2-user/hapi-server
