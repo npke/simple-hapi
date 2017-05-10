@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "7"
+deploy:
+    - provider: codedeploy
+      access_key_id: AKIAIJ4K7JIZV6OCJMZQ
+      secret_access_key: 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
+      application: SimpleHapiServer
+      deployment_group: development
