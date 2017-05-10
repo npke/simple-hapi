@@ -6,7 +6,7 @@ server.route({
   method: 'GET',
   path: '/',
   handler: (request, reply) => {
-    reply({message: 'Hello, World!', info: 'Powered by Hapi framework'});
+    reply({message: 'Hello, World!', info: 'Powered by Hapi with love'});
   }
 });
 
